@@ -1,5 +1,5 @@
 {
-  "name": "tslint-loader",
+  "name": "@megaplan/tslint-loader",
   "version": "2.1.1",
   "description": "tslint loader for webpack",
   "main": "index.js",
