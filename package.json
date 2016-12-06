@@ -26,9 +26,6 @@
     "url": "https://github.com/wbuchwalter/tslint-loader/issues"
   },
   "homepage": "https://github.com/wbuchwalter/tslint-loader",
-  "peerDependencies": {
-    "tslint": "^4.0.0"
-  },
   "dependencies": {
     "loader-utils": "^0.2.7",
     "mkdirp": "^0.5.1",
